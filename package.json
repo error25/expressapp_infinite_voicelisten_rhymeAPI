@@ -1,0 +1,22 @@
+{
+  "name": "bcrypt-sessions",
+  "version": "1.0.0",
+  "description": "An example of sessions with bcrypt and client-sessions.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Hayden <mickyginger@gmail.com> (https://github.com/mickyginger)",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^0.8.5",
+    "bindings": "^1.2.1",
+    "body-parser": "^1.15.0",
+    "client-sessions": "^0.7.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-ejs-layouts": "^2.0.0",
+    "mongoose": "4.1.1",
+    "morgan": "^1.7.0"
+  }
+}
