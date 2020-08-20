@@ -9,7 +9,7 @@
   "author": "Mike Hayden <mickyginger@gmail.com> (https://github.com/mickyginger)",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^0.8.5",
+    "bcrypt": "^5.0.0",
     "bindings": "^1.2.1",
     "body-parser": "^1.15.0",
     "client-sessions": "^0.7.0",
